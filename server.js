@@ -18,6 +18,8 @@ function loadNotes(){
     return loadNotes
 }
 
+require("./routes/htmlRoutes")(app);
+
 // API routes
 app.get('/api/notes/', function(req, res) {
     console.log('[GET /api/notes/]')
