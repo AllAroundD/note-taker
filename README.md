@@ -19,6 +19,7 @@
   Once the application loads, click the Get Started button to get to the Notes page.
 
 ## Usage
+  The deployed application can be found at https://enigmatic-tor-32580.herokuapp.com/.
   This application is used to write, save, and delete notes.
   Once on the Notes page, the left side of the page will show the list of notes (if any). On the right side of the page, you will have the space to enter the details of the note.
   After entering a note, there will be a Save button in the top right corner. Once saved, the new note will be shown in the list on the left.
