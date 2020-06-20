@@ -24,7 +24,7 @@
   After entering a note, there will be a Save button in the top right corner. Once saved, the new note will be shown in the list on the left.
   Notes can be deleted by clicking the trashcan beside the note.
 
-![note taker demo](./assets/notetaker-demo.gif)
+![note taker demo](./public/assets/notetaker-demo.gif)
 
 ## License
   No license
